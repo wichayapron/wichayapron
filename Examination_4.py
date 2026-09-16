@@ -8,3 +8,14 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 score = int(input())
+คะแนน = int(input("คะแนนสอบ"))
+output ("A")
+  else: (">80")
+output ("B")
+  else: (">=70")
+output ("C")
+  else: (">60")
+output ("D")
+  else: (">=50")
+output ("F")
+ eles: ("<50")
