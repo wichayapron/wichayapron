@@ -7,3 +7,6 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 b = float(input())
 h = float(input())
+b = float(input("ความยาวฐาน"))
+h = float(input("ความสูง"))
+output : total ("พื้นที่สามเหลี่ยม ("0.5 * b * h"))
