@@ -8,3 +8,9 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 age = int(input())
+age = int(input("<12")
+if = ("50บาท")
+age = int(intput("12-59"))
+if = ("100บาท")
+age = int(intput(">=60")
+if = ("0")
